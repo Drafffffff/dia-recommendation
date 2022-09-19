@@ -1,0 +1,474 @@
+[
+  {
+    "id": 1,
+    "name": "BRIONVEGA Algol 电视",
+    "category": "生活智慧",
+    "X": 0.897526783038499,
+    "Y": 0.636634283826823,
+    "info": "Asdfasdfasdf asdfs df Asdfasdfasdf asdfs df Asdfasdfasdf asdfs df Asdfasdfasdf asdfs df Asdfasdfasdf asdfs df Asdfasdfasdf asdfs df Asdfasdfasdf asdfs df Asdfasdfasdf asdfs df"
+  },
+  {
+    "id": 2,
+    "name": "新一代动力集中型动车组",
+    "category": "产业装备",
+    "X": 0.218562912196847,
+    "Y": 0.0813412358804066,
+    "info": "Asdfasdfasdf asdfs df Asdfasdfasdf asdfs df Asdfasdfasdf asdfs df Asdfasdfasdf asdfs df Asdfasdfasdf asdfs df Asdfasdfasdf asdfs df Asdfasdfasdf asdfs df Asdfasdfasdf asdfs df"
+  },
+  {
+    "id": 3,
+    "name": "超声波检测体验",
+    "category": "产业装备",
+    "X": 0.97452596219943,
+    "Y": 0.43715945374333,
+    "info": "Asdfasdfasdf asdfs df Asdfasdfasdf asdfs df Asdfasdfasdf asdfs df Asdfasdfasdf asdfs df Asdfasdfasdf asdfs df Asdfasdfasdf asdfs df Asdfasdfasdf asdfs df Asdfasdfasdf asdfs df"
+  },
+  {
+    "id": 4,
+    "name": "Storz Modulith体外冲击波碎石设备",
+    "category": "产业装备",
+    "X": 0.196877994218197,
+    "Y": 0.432123340008136,
+    "info": "Asdfasdfasdf asdfs df Asdfasdfasdf asdfs df Asdfasdfasdf asdfs df Asdfasdfasdf asdfs df Asdfasdfasdf asdfs df Asdfasdfasdf asdfs df Asdfasdfasdf asdfs df Asdfasdfasdf asdfs df"
+  },
+  {
+    "id": 5,
+    "name": "Apple IIc个人电脑",
+    "category": "生活智慧",
+    "X": 0.558941115317524,
+    "Y": 0.740420646195878,
+    "info": "Asdfasdfasdf asdfs df Asdfasdfasdf asdfs df Asdfasdfasdf asdfs df Asdfasdfasdf asdfs df Asdfasdfasdf asdfs df Asdfasdfasdf asdfs df Asdfasdfasdf asdfs df Asdfasdfasdf asdfs df"
+  },
+  {
+    "id": 6,
+    "name": "CARO电动摩托车",
+    "category": "产业装备",
+    "X": 0.49273422954153,
+    "Y": 0.814075334338914,
+    "info": "Asdfasdfasdf asdfs df Asdfasdfasdf asdfs df Asdfasdfasdf asdfs df Asdfasdfasdf asdfs df Asdfasdfasdf asdfs df Asdfasdfasdf asdfs df Asdfasdfasdf asdfs df Asdfasdfasdf asdfs df"
+  },
+  {
+    "id": 7,
+    "name": "蔡司PLEX Elite 9000",
+    "category": "产业装备",
+    "X": 0.86238673728472,
+    "Y": 0.0660992297808668,
+    "info": "Asdfasdfasdf asdfs df Asdfasdfasdf asdfs df Asdfasdfasdf asdfs df Asdfasdfasdf asdfs df Asdfasdfasdf asdfs df Asdfasdfasdf asdfs df Asdfasdfasdf asdfs df Asdfasdfasdf asdfs df"
+  },
+  {
+    "id": 8,
+    "name": "超声波乳化、玻璃体切除术喝晶状体破碎装置",
+    "category": "产业装备",
+    "X": 0.964270978561241,
+    "Y": 0.84816622535502,
+    "info": "Asdfasdfasdf asdfs df Asdfasdfasdf asdfs df Asdfasdfasdf asdfs df Asdfasdfasdf asdfs df Asdfasdfasdf asdfs df Asdfasdfasdf asdfs df Asdfasdfasdf asdfs df Asdfasdfasdf asdfs df"
+  },
+  {
+    "id": 9,
+    "name": "光学生物测量仪",
+    "category": "产业装备",
+    "X": 0.253729595402239,
+    "Y": 0.145625491904461,
+    "info": "Asdfasdfasdf asdfs df Asdfasdfasdf asdfs df Asdfasdfasdf asdfs df Asdfasdfasdf asdfs df Asdfasdfasdf asdfs df Asdfasdfasdf asdfs df Asdfasdfasdf asdfs df Asdfasdfasdf asdfs df"
+  },
+  {
+    "id": 10,
+    "name": "蝴蝶椅",
+    "category": "生活智慧",
+    "X": 0.419461473872104,
+    "Y": 0.971345144124939,
+    "info": "Asdfasdfasdf asdfs df Asdfasdfasdf asdfs df Asdfasdfasdf asdfs df Asdfasdfasdf asdfs df Asdfasdfasdf asdfs df Asdfasdfasdf asdfs df Asdfasdfasdf asdfs df Asdfasdfasdf asdfs df"
+  },
+  {
+    "id": 11,
+    "name": "液压挖掘机“LEGEST SH 200”",
+    "category": "产业装备",
+    "X": 0.525018496929462,
+    "Y": 0.41850391880877,
+    "info": "Asdfasdfasdf asdfs df Asdfasdfasdf asdfs df Asdfasdfasdf asdfs df Asdfasdfasdf asdfs df Asdfasdfasdf asdfs df Asdfasdfasdf asdfs df Asdfasdfasdf asdfs df Asdfasdfasdf asdfs df"
+  },
+  {
+    "id": 12,
+    "name": "MUJI CD 播放器",
+    "category": "生活智慧",
+    "X": 0.374192664349236,
+    "Y": 0.612940757491623,
+    "info": "Asdfasdfasdf asdfs df Asdfasdfasdf asdfs df Asdfasdfasdf asdfs df Asdfasdfasdf asdfs df Asdfasdfasdf asdfs df Asdfasdfasdf asdfs df Asdfasdfasdf asdfs df Asdfasdfasdf asdfs df"
+  },
+  {
+    "id": 13,
+    "name": "SKAI城市空中交通",
+    "category": "产业装备",
+    "X": 0.19848245509507,
+    "Y": 0.966954274430658,
+    "info": "Asdfasdfasdf asdfs df Asdfasdfasdf asdfs df Asdfasdfasdf asdfs df Asdfasdfasdf asdfs df Asdfasdfasdf asdfs df Asdfasdfasdf asdfs df Asdfasdfasdf asdfs df Asdfasdfasdf asdfs df"
+  },
+  {
+    "id": 14,
+    "name": "PH light",
+    "category": "生活智慧",
+    "X": 0.882789972154315,
+    "Y": 0.551247300262981,
+    "info": "Asdfasdfasdf asdfs df Asdfasdfasdf asdfs df Asdfasdfasdf asdfs df Asdfasdfasdf asdfs df Asdfasdfasdf asdfs df Asdfasdfasdf asdfs df Asdfasdfasdf asdfs df Asdfasdfasdf asdfs df"
+  },
+  {
+    "id": 15,
+    "name": "Lucellino desk lamp",
+    "category": "生活智慧",
+    "X": 0.77450971986968,
+    "Y": 0.926921672038762,
+    "info": "Asdfasdfasdf asdfs df Asdfasdfasdf asdfs df Asdfasdfasdf asdfs df Asdfasdfasdf asdfs df Asdfasdfasdf asdfs df Asdfasdfasdf asdfs df Asdfasdfasdf asdfs df Asdfasdfasdf asdfs df"
+  },
+  {
+    "id": 16,
+    "name": "蚂蚁森林",
+    "category": "数字经济",
+    "X": 0.997515798378216,
+    "Y": 0.71391888395823,
+    "info": "Asdfasdfasdf asdfs df Asdfasdfasdf asdfs df Asdfasdfasdf asdfs df Asdfasdfasdf asdfs df Asdfasdfasdf asdfs df Asdfasdfasdf asdfs df Asdfasdfasdf asdfs df Asdfasdfasdf asdfs df"
+  },
+  {
+    "id": 17,
+    "name": "甲壳虫汽车",
+    "category": "产业装备",
+    "X": 0.608585313831225,
+    "Y": 0.0387861511550633,
+    "info": "Asdfasdfasdf asdfs df Asdfasdfasdf asdfs df Asdfasdfasdf asdfs df Asdfasdfasdf asdfs df Asdfasdfasdf asdfs df Asdfasdfasdf asdfs df Asdfasdfasdf asdfs df Asdfasdfasdf asdfs df"
+  },
+  {
+    "id": 18,
+    "name": "高速公路智慧运营",
+    "category": "数字经济",
+    "X": 0.310826855770874,
+    "Y": 0.91373633001019,
+    "info": "Asdfasdfasdf asdfs df Asdfasdfasdf asdfs df Asdfasdfasdf asdfs df Asdfasdfasdf asdfs df Asdfasdfasdf asdfs df Asdfasdfasdf asdfs df Asdfasdfasdf asdfs df Asdfasdfasdf asdfs df"
+  },
+  {
+    "id": 19,
+    "name": "和家亲app",
+    "category": "数字经济",
+    "X": 0.3069287137607,
+    "Y": 0.411289459635353,
+    "info": "Asdfasdfasdf asdfs df Asdfasdfasdf asdfs df Asdfasdfasdf asdfs df Asdfasdfasdf asdfs df Asdfasdfasdf asdfs df Asdfasdfasdf asdfs df Asdfasdfasdf asdfs df Asdfasdfasdf asdfs df"
+  },
+  {
+    "id": 20,
+    "name": "Canon Eight",
+    "category": "生活智慧",
+    "X": 0.0987090434368919,
+    "Y": 0.110662645756877,
+    "info": "Asdfasdfasdf asdfs df Asdfasdfasdf asdfs df Asdfasdfasdf asdfs df Asdfasdfasdf asdfs df Asdfasdfasdf asdfs df Asdfasdfasdf asdfs df Asdfasdfasdf asdfs df Asdfasdfasdf asdfs df"
+  },
+  {
+    "id": 21,
+    "name": "飘纸椅",
+    "category": "生活智慧",
+    "X": 0.946132840812642,
+    "Y": 0.120129078534152,
+    "info": "Asdfasdfasdf asdfs df Asdfasdfasdf asdfs df Asdfasdfasdf asdfs df Asdfasdfasdf asdfs df Asdfasdfasdf asdfs df Asdfasdfasdf asdfs df Asdfasdfasdf asdfs df Asdfasdfasdf asdfs df"
+  },
+  {
+    "id": 22,
+    "name": "TWIG4 椅子",
+    "category": "生活智慧",
+    "X": 0.738184618557637,
+    "Y": 0.476351676032194,
+    "info": "Asdfasdfasdf asdfs df Asdfasdfasdf asdfs df Asdfasdfasdf asdfs df Asdfasdfasdf asdfs df Asdfasdfasdf asdfs df Asdfasdfasdf asdfs df Asdfasdfasdf asdfs df Asdfasdfasdf asdfs df"
+  },
+  {
+    "id": 23,
+    "name": "评审支持系统",
+    "category": "数字经济",
+    "X": 0.449100471524014,
+    "Y": 0.307755515923975,
+    "info": "Asdfasdfasdf asdfs df Asdfasdfasdf asdfs df Asdfasdfasdf asdfs df Asdfasdfasdf asdfs df Asdfasdfasdf asdfs df Asdfasdfasdf asdfs df Asdfasdfasdf asdfs df Asdfasdfasdf asdfs df"
+  },
+  {
+    "id": 24,
+    "name": "Savoy 花瓶",
+    "category": "生活智慧",
+    "X": 0.378112075168014,
+    "Y": 0.864238648261836,
+    "info": "Asdfasdfasdf asdfs df Asdfasdfasdf asdfs df Asdfasdfasdf asdfs df Asdfasdfasdf asdfs df Asdfasdfasdf asdfs df Asdfasdfasdf asdfs df Asdfasdfasdf asdfs df Asdfasdfasdf asdfs df"
+  },
+  {
+    "id": 25,
+    "name": "华为办公协作产品",
+    "category": "数字经济",
+    "X": 0.016419734389079,
+    "Y": 0.699042090844226,
+    "info": "Asdfasdfasdf asdfs df Asdfasdfasdf asdfs df Asdfasdfasdf asdfs df Asdfasdfasdf asdfs df Asdfasdfasdf asdfs df Asdfasdfasdf asdfs df Asdfasdfasdf asdfs df Asdfasdfasdf asdfs df"
+  },
+  {
+    "id": 26,
+    "name": "滴滴智慧交通",
+    "category": "数字经济",
+    "X": 0.438083621779578,
+    "Y": 0.349034144738913,
+    "info": "Asdfasdfasdf asdfs df Asdfasdfasdf asdfs df Asdfasdfasdf asdfs df Asdfasdfasdf asdfs df Asdfasdfasdf asdfs df Asdfasdfasdf asdfs df Asdfasdfasdf asdfs df Asdfasdfasdf asdfs df"
+  },
+  {
+    "id": 27,
+    "name": "粤商通",
+    "category": "数字经济",
+    "X": 0.598139522968563,
+    "Y": 0.287839642942749,
+    "info": "Asdfasdfasdf asdfs df Asdfasdfasdf asdfs df Asdfasdfasdf asdfs df Asdfasdfasdf asdfs df Asdfasdfasdf asdfs df Asdfasdfasdf asdfs df Asdfasdfasdf asdfs df Asdfasdfasdf asdfs df"
+  },
+  {
+    "id": 28,
+    "name": "小度车载os",
+    "category": "数字经济",
+    "X": 0.657874655457701,
+    "Y": 0.958310195317742,
+    "info": "Asdfasdfasdf asdfs df Asdfasdfasdf asdfs df Asdfasdfasdf asdfs df Asdfasdfasdf asdfs df Asdfasdfasdf asdfs df Asdfasdfasdf asdfs df Asdfasdfasdf asdfs df Asdfasdfasdf asdfs df"
+  },
+  {
+    "id": 29,
+    "name": "X线计算机断层摄影设计",
+    "category": "产业装备",
+    "X": 0.745838928181903,
+    "Y": 0.381358353281387,
+    "info": "Asdfasdfasdf asdfs df Asdfasdfasdf asdfs df Asdfasdfasdf asdfs df Asdfasdfasdf asdfs df Asdfasdfasdf asdfs df Asdfasdfasdf asdfs df Asdfasdfasdf asdfs df Asdfasdfasdf asdfs df"
+  },
+  {
+    "id": 30,
+    "name": "金属3D打印设备",
+    "category": "产业装备",
+    "X": 0.643211604427709,
+    "Y": 0.175808831645214,
+    "info": "Asdfasdfasdf asdfs df Asdfasdfasdf asdfs df Asdfasdfasdf asdfs df Asdfasdfasdf asdfs df Asdfasdfasdf asdfs df Asdfasdfasdf asdfs df Asdfasdfasdf asdfs df Asdfasdfasdf asdfs df"
+  },
+  {
+    "id": 31,
+    "name": "编程无人小车设计",
+    "category": "产业装备慧",
+    "X": 0.0392243078363662,
+    "Y": 0.82904317977762,
+    "info": "Asdfasdfasdf asdfs df Asdfasdfasdf asdfs df Asdfasdfasdf asdfs df Asdfasdfasdf asdfs df Asdfasdfasdf asdfs df Asdfasdfasdf asdfs df Asdfasdfasdf asdfs df Asdfasdfasdf asdfs df"
+  },
+  {
+    "id": 32,
+    "name": "小米触屏音箱AIS'UI交互系统",
+    "category": "数字经济",
+    "X": 0.193860696058944,
+    "Y": 0.506953656858562,
+    "info": "Asdfasdfasdf asdfs df Asdfasdfasdf asdfs df Asdfasdfasdf asdfs df Asdfasdfasdf asdfs df Asdfasdfasdf asdfs df Asdfasdfasdf asdfs df Asdfasdfasdf asdfs df Asdfasdfasdf asdfs df"
+  },
+  {
+    "id": 33,
+    "name": "新石器无人车",
+    "category": "产业装备",
+    "X": 0.412874007015172,
+    "Y": 0.553297585088549,
+    "info": "Asdfasdfasdf asdfs df Asdfasdfasdf asdfs df Asdfasdfasdf asdfs df Asdfasdfasdf asdfs df Asdfasdfasdf asdfs df Asdfasdfasdf asdfs df Asdfasdfasdf asdfs df Asdfasdfasdf asdfs df"
+  },
+  {
+    "id": 34,
+    "name": "西门子镀铬电吹风",
+    "category": "生活智慧",
+    "X": 0.103347810217693,
+    "Y": 0.00308906854345919,
+    "info": "Asdfasdfasdf asdfs df Asdfasdfasdf asdfs df Asdfasdfasdf asdfs df Asdfasdfasdf asdfs df Asdfasdfasdf asdfs df Asdfasdfasdf asdfs df Asdfasdfasdf asdfs df Asdfasdfasdf asdfs df"
+  },
+  {
+    "id": 35,
+    "name": "FISON - 纯电动无人驾驶拖拉机",
+    "category": "产业装备",
+    "X": 0.832553591374209,
+    "Y": 0.164617505695767,
+    "info": "Asdfasdfasdf asdfs df Asdfasdfasdf asdfs df Asdfasdfasdf asdfs df Asdfasdfasdf asdfs df Asdfasdfasdf asdfs df Asdfasdfasdf asdfs df Asdfasdfasdf asdfs df Asdfasdfasdf asdfs df"
+  },
+  {
+    "id": 36,
+    "name": "便携性系留照明无人机",
+    "category": "产业装备",
+    "X": 0.903770846333813,
+    "Y": 0.64378208849756,
+    "info": "Asdfasdfasdf asdfs df Asdfasdfasdf asdfs df Asdfasdfasdf asdfs df Asdfasdfasdf asdfs df Asdfasdfasdf asdfs df Asdfasdfasdf asdfs df Asdfasdfasdf asdfs df Asdfasdfasdf asdfs df"
+  },
+  {
+    "id": 37,
+    "name": "阿里云工业数字孪生",
+    "category": "数字经济",
+    "X": 0.838880693475675,
+    "Y": 0.328891364260585,
+    "info": "Asdfasdfasdf asdfs df Asdfasdfasdf asdfs df Asdfasdfasdf asdfs df Asdfasdfasdf asdfs df Asdfasdfasdf asdfs df Asdfasdfasdf asdfs df Asdfasdfasdf asdfs df Asdfasdfasdf asdfs df"
+  },
+  {
+    "id": 38,
+    "name": "小绘-AI设计师启发式助手",
+    "category": "数字经济",
+    "X": 0.277501441218535,
+    "Y": 0.174039567290663,
+    "info": "Asdfasdfasdf asdfs df Asdfasdfasdf asdfs df Asdfasdfasdf asdfs df Asdfasdfasdf asdfs df Asdfasdfasdf asdfs df Asdfasdfasdf asdfs df Asdfasdfasdf asdfs df Asdfasdfasdf asdfs df"
+  },
+  {
+    "id": 39,
+    "name": "阿里云全息智能路网",
+    "category": "数字经济",
+    "X": 0.233281945576737,
+    "Y": 0.649017782257179,
+    "info": "Asdfasdfasdf asdfs df Asdfasdfasdf asdfs df Asdfasdfasdf asdfs df Asdfasdfasdf asdfs df Asdfasdfasdf asdfs df Asdfasdfasdf asdfs df Asdfasdfasdf asdfs df Asdfasdfasdf asdfs df"
+  },
+  {
+    "id": 40,
+    "name": "第四范式疫情推演系统",
+    "category": "数字经济",
+    "X": 0.588195313647757,
+    "Y": 0.55428085245705,
+    "info": "Asdfasdfasdf asdfs df Asdfasdfasdf asdfs df Asdfasdfasdf asdfs df Asdfasdfasdf asdfs df Asdfasdfasdf asdfs df Asdfasdfasdf asdfs df Asdfasdfasdf asdfs df Asdfasdfasdf asdfs df"
+  },
+  {
+    "id": 41,
+    "name": "阿里云平行世界仿真平台",
+    "category": "数字经济",
+    "X": 0.0439266870801461,
+    "Y": 0.208781080973707,
+    "info": "Asdfasdfasdf asdfs df Asdfasdfasdf asdfs df Asdfasdfasdf asdfs df Asdfasdfasdf asdfs df Asdfasdfasdf asdfs df Asdfasdfasdf asdfs df Asdfasdfasdf asdfs df Asdfasdfasdf asdfs df"
+  },
+  {
+    "id": 42,
+    "name": "精准气象预报&物联网系统",
+    "category": "数字经济",
+    "X": 0.76193337709975,
+    "Y": 0.987431370373958,
+    "info": "Asdfasdfasdf asdfs df Asdfasdfasdf asdfs df Asdfasdfasdf asdfs df Asdfasdfasdf asdfs df Asdfasdfasdf asdfs df Asdfasdfasdf asdfs df Asdfasdfasdf asdfs df Asdfasdfasdf asdfs df"
+  },
+  {
+    "id": 43,
+    "name": "Stay-Brella",
+    "category": "生活智慧",
+    "X": 0.151945055080336,
+    "Y": 0.768966875201321,
+    "info": "Asdfasdfasdf asdfs df Asdfasdfasdf asdfs df Asdfasdfasdf asdfs df Asdfasdfasdf asdfs df Asdfasdfasdf asdfs df Asdfasdfasdf asdfs df Asdfasdfasdf asdfs df Asdfasdfasdf asdfs df"
+  },
+  {
+    "id": 44,
+    "name": "绿城未来社区数字化服务与管理系统",
+    "category": "数字经济",
+    "X": 0.988583285883163,
+    "Y": 0.168238121037226,
+    "info": "Asdfasdfasdf asdfs df Asdfasdfasdf asdfs df Asdfasdfasdf asdfs df Asdfasdfasdf asdfs df Asdfasdfasdf asdfs df Asdfasdfasdf asdfs df Asdfasdfasdf asdfs df Asdfasdfasdf asdfs df"
+  },
+  {
+    "id": 45,
+    "name": "文化茶",
+    "category": "文化创新",
+    "X": 0.784559562723013,
+    "Y": 0.446402315476013,
+    "info": "Asdfasdfasdf asdfs df Asdfasdfasdf asdfs df Asdfasdfasdf asdfs df Asdfasdfasdf asdfs df Asdfasdfasdf asdfs df Asdfasdfasdf asdfs df Asdfasdfasdf asdfs df Asdfasdfasdf asdfs df"
+  },
+  {
+    "id": 46,
+    "name": "Element 桌子",
+    "category": "生活智慧",
+    "X": 0.950361596854834,
+    "Y": 0.624499347132292,
+    "info": "Asdfasdfasdf asdfs df Asdfasdfasdf asdfs df Asdfasdfasdf asdfs df Asdfasdfasdf asdfs df Asdfasdfasdf asdfs df Asdfasdfasdf asdfs df Asdfasdfasdf asdfs df Asdfasdfasdf asdfs df"
+  },
+  {
+    "id": 47,
+    "name": "九黎音箱夜灯",
+    "category": "文化创新",
+    "X": 0.106407078148088,
+    "Y": 0.564737361303824,
+    "info": "Asdfasdfasdf asdfs df Asdfasdfasdf asdfs df Asdfasdfasdf asdfs df Asdfasdfasdf asdfs df Asdfasdfasdf asdfs df Asdfasdfasdf asdfs df Asdfasdfasdf asdfs df Asdfasdfasdf asdfs df"
+  },
+  {
+    "id": 48,
+    "name": "索扎斯便携式打字机",
+    "category": "生活智慧",
+    "X": 0.669218694398039,
+    "Y": 0.0107706888087074,
+    "info": "Asdfasdfasdf asdfs df Asdfasdfasdf asdfs df Asdfasdfasdf asdfs df Asdfasdfasdf asdfs df Asdfasdfasdf asdfs df Asdfasdfasdf asdfs df Asdfasdfasdf asdfs df Asdfasdfasdf asdfs df"
+  },
+  {
+    "id": 49,
+    "name": "朔·望月相灯设计",
+    "category": "文化创新",
+    "X": 0.666425280766942,
+    "Y": 0.0448144399040321,
+    "info": "Asdfasdfasdf asdfs df Asdfasdfasdf asdfs df Asdfasdfasdf asdfs df Asdfasdfasdf asdfs df Asdfasdfasdf asdfs df Asdfasdfasdf asdfs df Asdfasdfasdf asdfs df Asdfasdfasdf asdfs df"
+  },
+  {
+    "id": 50,
+    "name": "传家壶",
+    "category": "文化创新",
+    "X": 0.845553678206591,
+    "Y": 0.940773515643263,
+    "info": "Asdfasdfasdf asdfs df Asdfasdfasdf asdfs df Asdfasdfasdf asdfs df Asdfasdfasdf asdfs df Asdfasdfasdf asdfs df Asdfasdfasdf asdfs df Asdfasdfasdf asdfs df Asdfasdfasdf asdfs df"
+  },
+  {
+    "id": 51,
+    "name": "故宫博物院 万紫千红蝴蝶茶壶",
+    "category": "文化创新",
+    "X": 0.182364767970211,
+    "Y": 0.375985847431124,
+    "info": "Asdfasdfasdf asdfs df Asdfasdfasdf asdfs df Asdfasdfasdf asdfs df Asdfasdfasdf asdfs df Asdfasdfasdf asdfs df Asdfasdfasdf asdfs df Asdfasdfasdf asdfs df Asdfasdfasdf asdfs df"
+  },
+  {
+    "id": 52,
+    "name": "紫东阁·立体便利贴",
+    "category": "文化创新",
+    "X": 0.121625383382608,
+    "Y": 0.440264775341836,
+    "info": "Asdfasdfasdf asdfs df Asdfasdfasdf asdfs df Asdfasdfasdf asdfs df Asdfasdfasdf asdfs df Asdfasdfasdf asdfs df Asdfasdfasdf asdfs df Asdfasdfasdf asdfs df Asdfasdfasdf asdfs df"
+  },
+  {
+    "id": 53,
+    "name": "浙自博·鸟声展文创",
+    "category": "文化创新",
+    "X": 0.984440802950629,
+    "Y": 0.991321693452679,
+    "info": "Asdfasdfasdf asdfs df Asdfasdfasdf asdfs df Asdfasdfasdf asdfs df Asdfasdfasdf asdfs df Asdfasdfasdf asdfs df Asdfasdfasdf asdfs df Asdfasdfasdf asdfs df Asdfasdfasdf asdfs df"
+  },
+  {
+    "id": 54,
+    "name": "上历博·商务衍生品",
+    "category": "文化创新",
+    "X": 0.396598756649287,
+    "Y": 0.241276096156987,
+    "info": "Asdfasdfasdf asdfs df Asdfasdfasdf asdfs df Asdfasdfasdf asdfs df Asdfasdfasdf asdfs df Asdfasdfasdf asdfs df Asdfasdfasdf asdfs df Asdfasdfasdf asdfs df Asdfasdfasdf asdfs df"
+  },
+  {
+    "id": 55,
+    "name": "中国高铁·授权巧克力",
+    "category": "文化创新",
+    "X": 0.858268486309222,
+    "Y": 0.874962438885688,
+    "info": "Asdfasdfasdf asdfs df Asdfasdfasdf asdfs df Asdfasdfasdf asdfs df Asdfasdfasdf asdfs df Asdfasdfasdf asdfs df Asdfasdfasdf asdfs df Asdfasdfasdf asdfs df Asdfasdfasdf asdfs df"
+  },
+  {
+    "id": 56,
+    "name": "王开照相·老字号衍生",
+    "category": "文化创新",
+    "X": 0.420306023437183,
+    "Y": 0.754295619321639,
+    "info": "Asdfasdfasdf asdfs df Asdfasdfasdf asdfs df Asdfasdfasdf asdfs df Asdfasdfasdf asdfs df Asdfasdfasdf asdfs df Asdfasdfasdf asdfs df Asdfasdfasdf asdfs df Asdfasdfasdf asdfs df"
+  },
+  {
+    "id": 57,
+    "name": "城市解构·上历博文创",
+    "category": "文化创新",
+    "X": 0.497594551480286,
+    "Y": 0.544514843068225,
+    "info": "Asdfasdfasdf asdfs df Asdfasdfasdf asdfs df Asdfasdfasdf asdfs df Asdfasdfasdf asdfs df Asdfasdfasdf asdfs df Asdfasdfasdf asdfs df Asdfasdfasdf asdfs df Asdfasdfasdf asdfs df"
+  },
+  {
+    "id": 58,
+    "name": "瓷生物乐园 · 陶象书立",
+    "category": "文化创新",
+    "X": 0.804031658002915,
+    "Y": 0.14536625158558,
+    "info": "Asdfasdfasdf asdfs df Asdfasdfasdf asdfs df Asdfasdfasdf asdfs df Asdfasdfasdf asdfs df Asdfasdfasdf asdfs df Asdfasdfasdf asdfs df Asdfasdfasdf asdfs df Asdfasdfasdf asdfs df"
+  },
+  {
+    "id": 59,
+    "name": "海平面·文创丝巾",
+    "category": "文化创新",
+    "X": 0.179545575836823,
+    "Y": 0.303674828003053,
+    "info": "Asdfasdfasdf asdfs df Asdfasdfasdf asdfs df Asdfasdfasdf asdfs df Asdfasdfasdf asdfs df Asdfasdfasdf asdfs df Asdfasdfasdf asdfs df Asdfasdfasdf asdfs df Asdfasdfasdf asdfs df"
+  }
+]
