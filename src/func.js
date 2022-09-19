@@ -17,8 +17,7 @@ export function shuffle(arr, bool) {
 };
 
 
-//返回四个分类每个分类各三个作品
-
+//返回四个分类每个分类各三个作品,共计12个对象
 export function getSelectData() {
     const data = shuffle(selectData)
     const a = data.filter(d => d.category === "产业装备").slice(0, 3)
@@ -28,7 +27,28 @@ export function getSelectData() {
     return shuffle([...a, ...b, ...c, ...d])
 }
 
-//返回recommend.js中推荐作品的index
+
+//传入用户选择的对象数组
+/*
+[
+{
+    name:xxx,
+    category:xxx,
+    id:xxx
+},
+{
+    name:xxx,
+    category:xxx,
+    id:xxx
+},
+{
+    name:xxx,
+    category:xxx,
+    id:xxx
+},
+]
+ */
+//返回recommend.json中推荐作品的index
 export function getRecommendData(data) {
     const counter = {
         "数字经济": 0,
@@ -55,6 +75,6 @@ export function getRecommendData(data) {
     return  tmp.map(d=>{
         return recommendData.findIndex(i=>{ return i.name === d.name})
     })
-    // return [...a, ...b, ...c, ...d]
+
 }
 
